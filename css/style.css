@@ -1,0 +1,35 @@
+main{
+    
+}
+menu{
+    display: block;
+    background-color: gray;
+
+}
+
+
+h1,h2{
+    text-align: center;
+}
+ul{
+    text-align: center;
+    list-style: none;
+}
+.center{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    border: 3px solid white;
+    padding: 20px;
+}
+img{
+    display: block;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 25%;
+}
+a{
+  color: white;
+  display: block;
+  text-align: center;
+}
